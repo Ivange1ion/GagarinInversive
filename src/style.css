@@ -3,10 +3,10 @@
   --text-h: #000;
   --text-span: #ff8d28;
   --bg: #000;
+  --bg-active: #433535;
   --footer: #433535;
-
-  --sans: inter, sans-serif;
-  --heading: inter, sans-serif;
+  --sans: "Inter", sans-serif;
+  --heading: "Inter", sans-serif;
 }
 
 body {
