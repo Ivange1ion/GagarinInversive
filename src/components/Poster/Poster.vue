@@ -44,4 +44,40 @@
   font-family: var(--sans);
   font-weight: 700;
 }
+
+@media (max-width: 1200px) {
+  .text-item {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 958px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .poster-pic {
+    margin-right: 0;
+    height: 494px;
+  }
+  .poster-img {
+    width: 445px;
+  }
+}
+
+@media (max-width: 720px) {
+  .text-item {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 558px) {
+  .poster-pic {
+    height: 394px;
+  }
+  .poster-img {
+    width: 345px;
+  }
+}
 </style>
