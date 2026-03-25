@@ -80,6 +80,7 @@ const toggleModalMenu = () => {
   font-size: 30px;
   cursor: pointer;
   font-family: var(--sans);
+  font-weight: 700;
 }
 
 .active {
