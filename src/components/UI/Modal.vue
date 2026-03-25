@@ -45,6 +45,7 @@ const items = ref([
   border-radius: 16px;
   border: 1px solid rgb(255, 255, 255, 0.5);
   text-align: center;
+  min-width: 302px;
 }
 
 .item {

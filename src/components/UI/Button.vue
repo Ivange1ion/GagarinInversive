@@ -38,4 +38,12 @@
     padding-right: 110px;
   }
 }
+
+@media (max-width: 558px) {
+  .btn {
+    font-size: 18px;
+    padding-left: 90px;
+    padding-right: 90px;
+  }
+}
 </style>

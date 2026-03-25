@@ -24,7 +24,8 @@ import Button from "../UI/Button.vue";
   margin-top: -30px;
   margin-bottom: 155px;
 
-  min-height: 200vh;
+  /* min-height: 200vh; */
+  height: 150vh;
 }
 
 .container::before {
@@ -34,7 +35,7 @@ import Button from "../UI/Button.vue";
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../../assets/img/hero-bg.svg");
+  background-image: url("../../assets/img/hero-bg.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -47,6 +48,7 @@ import Button from "../UI/Button.vue";
   font-family: var(--sans);
   text-align: center;
   max-width: 915px;
+  margin-top: 180px;
   margin-bottom: 88px;
 
   .span {
@@ -69,6 +71,12 @@ import Button from "../UI/Button.vue";
 @media (max-width: 720px) {
   .title {
     font-size: 37px;
+  }
+}
+
+@media (max-width: 558px) {
+  .container {
+    height: 100vh;
   }
 }
 </style>
