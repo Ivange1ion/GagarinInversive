@@ -10,6 +10,7 @@
 }
 
 body {
+  position: relative;
   background-color: var(--bg);
   padding: 18px;
 }
