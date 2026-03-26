@@ -66,7 +66,7 @@
     }
     .adv_li_head{
         font-weight: bold;
-        font-size: 20px;
+        font-size: 30px;
         padding-bottom: 10px;
     }
     @media (width<730px) {

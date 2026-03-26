@@ -38,13 +38,6 @@
   justify-content: center;
 }
 
-.text-item {
-  color: #fff;
-  font-size: 50px;
-  font-family: var(--sans);
-  font-weight: 700;
-}
-
 @media (max-width: 1200px) {
   .text-item {
     font-size: 40px;
