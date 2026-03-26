@@ -13,4 +13,42 @@ body {
   position: relative;
   background-color: var(--bg);
   padding: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #ffffff;
 }
+
+.part_head{
+  color: #ff8d28;
+  font-size: 40px;
+}
+
+/* #advantages{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 30px;
+    }
+    .adv_ul{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .adv_li_parent{
+        display: flex;
+        flex-direction: column;
+        flex-basis: 48%;
+        justify-content: space-between;
+    }
+    .adv_li{
+        margin-bottom: 10px;
+        border-left: #FF8D28 solid 4px;
+        padding-left: 10px;
+        flex-basis: 50%;
+                display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .adv_li_head{
+        font-weight: bold;
+        font-size: 20px;
+    } */
