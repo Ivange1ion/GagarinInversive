@@ -5,6 +5,8 @@ import Poster from "./components/Poster/Poster.vue";
 import Modal from "./components/UI/Modal.vue";
 import Advantages from "./components/Advantages/Advantages.vue";
 import About from "./components/About/About.vue";
+import Footer from "./components/Footer/Footer.vue";
+import Projects from "./components/Projects/Projects.vue"
 </script>
 
 <template>
@@ -13,4 +15,6 @@ import About from "./components/About/About.vue";
   <Poster></Poster>
   <About />
   <Advantages />
+  <Projects />
+  <Footer />
 </template>

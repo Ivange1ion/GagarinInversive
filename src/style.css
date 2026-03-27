@@ -37,7 +37,11 @@ body {
   }
 }
 
-
+@media (max-width: 720px) {
+  .text-item {
+    font-size: 30px;
+  }
+}
 /* #advantages{
         display: flex;
         flex-direction: column;
