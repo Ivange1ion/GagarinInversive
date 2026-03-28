@@ -20,6 +20,7 @@
 .container {
   display: flex;
   flex-direction: row;
+  margin-bottom: 155px;
 }
 
 .poster-pic {
