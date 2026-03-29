@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <section class="container">
+  <section class="container" id="poster">
     <picture class="poster-pic">
       <img src="../../assets/img/poster.webp" alt="" class="poster-img" />
     </picture>
