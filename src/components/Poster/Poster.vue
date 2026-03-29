@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <section class="container">
+  <section class="container" id="poster">
     <picture class="poster-pic">
       <img src="../../assets/img/poster.webp" alt="" class="poster-img" />
     </picture>
@@ -20,6 +20,7 @@
 .container {
   display: flex;
   flex-direction: row;
+  margin-bottom: 155px;
 }
 
 .poster-pic {

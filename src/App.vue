@@ -7,6 +7,7 @@ import Advantages from "./components/Advantages/Advantages.vue";
 import About from "./components/About/About.vue";
 import Footer from "./components/Footer/Footer.vue";
 import Projects from "./components/Projects/Projects.vue"
+import Achievements from "./components/Achievements/Achievements.vue";
 </script>
 
 <template>
@@ -15,6 +16,8 @@ import Projects from "./components/Projects/Projects.vue"
   <Poster></Poster>
   <About />
   <Advantages />
+  <Achievements></Achievements>
   <Projects />
   <Footer />
+  
 </template>

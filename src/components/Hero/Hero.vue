@@ -3,7 +3,7 @@ import Button from "../UI/Button.vue";
 </script>
 
 <template>
-  <div class="container">
+  <div class="container" id="hero">
     <h1 class="title">
       <span class="span">Гагарин</span> Иммерсив - космос начинается здесь
     </h1>
